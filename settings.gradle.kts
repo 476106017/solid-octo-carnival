@@ -1,1 +1,1 @@
-rootProject.name = "IntelliJ Platform Plugin Template"
+rootProject.name = "solid-octo-carnival"
